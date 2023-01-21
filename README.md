@@ -1,4 +1,4 @@
-# tech-conferences
+# List of software engineering conferences and events
 
 - [The Open Group Events](https://www.opengroup.org/events) <br>
 *The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.* 
