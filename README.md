@@ -3,7 +3,7 @@
 - [NDC Conferences](https://ndclondon.com) <br>
 *A Software Developers Conference currently running in London, Oslo, Kongsberg, Porto, Copenhagen, Minnesota, Sydney & Melbourne*
 - [Microsoft Ignite](https://ignite.microsoft.com)<br>
-* Microsoft Ignite event to explore the latest innovations, learn from product experts and partners, and level up your skillset.*
+*An event to explore the latest innovations, learn from product experts and partners, and level up your skillset.*
 - [Microsoft Build](https://mybuild.microsoft.com)<br>
 *An annual conference event held by Microsoft, aimed at software engineers and web developers using Windows, Microsoft Azure and other Microsoft technologies.*
 - [QCon Plus](https://plus.qconferences.com/)<br>
