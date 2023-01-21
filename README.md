@@ -14,3 +14,5 @@
 *The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities*
 - [Red Hat Summit](https://www.redhat.com/en/events) <br>
 *The premier enterprise open source event for IT professionals to learn, collaborate, and innovate on technologies from the datacenter and public cloud to the edge and beyond.*
+- [HashiConf](https://hashiconf.com/)<br>
+*HashiConf is for developers, system engineers, architects, and security professionals who use HashiCorp tools to provision, secure, connect, and run their applications.*
