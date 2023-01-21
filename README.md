@@ -16,5 +16,5 @@
 *The premier enterprise open source event for IT professionals to learn, collaborate, and innovate on technologies from the datacenter and public cloud to the edge and beyond.*
 - [HashiConf](https://hashiconf.com/)<br>
 *HashiConf is for developers, system engineers, architects, and security professionals who use HashiCorp tools to provision, secure, connect, and run their applications.* <br>
-- [The Open Group Events](https://www.opengroup.org/events)
-*The Open Group events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.*
+- [The Open Group Events](https://www.opengroup.org/events) <br>
+*The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.*
