@@ -10,3 +10,5 @@
 *Amazon Web Services annual cloud computing conference. It is dedicated to cloud strategies, IT architecture and infrastructure, operations, security and developer productivity with a focus on AWS products and features.*
 - [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events) <br>
 *The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities*
+- [Red Hat Summit](https://www.redhat.com/en/events)
+*Red Hat Summit is the premier enterprise open source event for IT professionals to learn, collaborate, and innovate on technologies from the datacenter and public cloud to the edge and beyond.*
