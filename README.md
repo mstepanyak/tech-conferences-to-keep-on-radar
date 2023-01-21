@@ -18,4 +18,6 @@
 - [HashiConf](https://hashiconf.com/)<br>
 *HashiConf is for developers, system engineers, architects, and security professionals who use HashiCorp tools to provision, secure, connect, and run their applications.* <br>
 - [The Open Group Events](https://www.opengroup.org/events) <br>
-*The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.*
+*The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.* <br>
+-[VMware Explore](https://www.vmware.com/explore.html)
+*It's VMware’s flagship event for all things multi-cloud. VMware Explore aims to facilitate new relationships, inspire learning, and provide hands-on training and access to thought leadership in the multi-cloud space. *
