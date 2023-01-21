@@ -1,5 +1,12 @@
 # List of software engineering conferences and events
 
+Conferences, powerfully, offer the ability to gather with like-minded individuals in a room, where ideas that might never have come to light have the breathing room to be shared. The following are some significant reasons why you should attend/watch  conferences:
+1. Learn and develop your skills
+2. Boost your network
+3. Learn about your competitors and exchange views on shared challenges
+4. Acquire the latest industry knowledge
+5. Have fun and travel
+
 - [The Open Group Events](https://www.opengroup.org/events) <br>
 *The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.* 
 - [QCon](https://qconferences.com/)<br>
