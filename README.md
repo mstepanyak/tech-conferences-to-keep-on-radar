@@ -6,7 +6,7 @@
 *An event to explore the latest innovations, learn from product experts and partners, and level up your skillset.*
 - [Microsoft Build](https://mybuild.microsoft.com)<br>
 *An annual conference event held by Microsoft, aimed at software engineers and web developers using Windows, Microsoft Azure and other Microsoft technologies.*
-- [QCon Plus](https://plus.qconferences.com/)<br>
+- [QCon](https://qconferences.com/)<br>
 *An online conference for senior software engineers, architects and team leads. Deep-dive with world-class software leaders on the patterns, practices, and use cases leveraged by the world’s most innovative software professionals.*
 - [AWS re:Invent](https://reinvent.awsevents.com)<br>
 *Amazon Web Services annual cloud computing conference. It is dedicated to cloud strategies, IT architecture and infrastructure, operations, security and developer productivity with a focus on AWS products and features.*
