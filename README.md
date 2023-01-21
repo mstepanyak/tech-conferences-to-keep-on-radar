@@ -1,7 +1,7 @@
 # List of my favorite software engineering conferences and events
 
 Conferences, powerfully, offer the ability to gather with like-minded individuals in a room, where ideas that might never have come to light have the breathing room to be shared. The following are some significant reasons why you should attend/watch  conferences:
-learn and develop your skills, boost your network, exchange views on shared challenges, acquire the latest industry knowledge, have fun and travel. <br>
+**learn** and develop your skills, **boost** your network, **exchange** views on shared challenges, **acquire** the latest industry knowledge, **have fun** and travel. <br>
 
 Please see below the list of conference. Think. Check. Attend/Watch.
 
