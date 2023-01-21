@@ -1,6 +1,7 @@
 # tech-conferences
 
 - [NDC Conferences](https://ndclondon.com) <br>
+*Delivers high-end events for software developers, ranging from large 5-day conferences to smaller events and tailor made workshops.*
 *A Software Developers Conference currently running in London, Oslo, Kongsberg, Porto, Copenhagen, Minnesota, Sydney & Melbourne*
 - [Microsoft Ignite](https://ignite.microsoft.com)<br>
 *An event to explore the latest innovations, learn from product experts and partners, and level up your skillset.*
