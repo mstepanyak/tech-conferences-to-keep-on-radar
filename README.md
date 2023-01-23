@@ -9,6 +9,8 @@ Please see below the list of conference. Think. Check. Attend/Watch.
 *The events are for business and technology professionals interested in achieving business objectives through technology standards. The Open Group organizes conferences, member meetings, industry verticals, webinars, podcasts and videos on a wide variety of topics.* 
 - [QCon](https://qconferences.com/)<br>
 *An online conference for senior software engineers, architects and team leads. Deep-dive with world-class software leaders on the patterns, practices, and use cases leveraged by the world’s most innovative software professionals.*
+- [O'Reilly Software Architecture Conference](https://www.oreilly.com/conferences/software-architecture.html)<br>
+*Covers strategies and tactics successful software architects use to develop actionable influence within the power centers of their organizations.*
 - [AWS re:Invent](https://reinvent.awsevents.com)<br>
 *Amazon Web Services annual cloud computing conference. It is dedicated to cloud strategies, IT architecture and infrastructure, operations, security and developer productivity with a focus on AWS products and features.*
 - [NDC Conferences](https://ndclondon.com) <br>
